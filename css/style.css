@@ -1,0 +1,158 @@
+
+.header{
+	width: 100%;
+	background:#ebe8de;
+	overflow: hidden;
+	border-top: 8px solid #ff471a;	
+}
+
+
+.left{
+	width:50%;
+	float:left;
+	font-size:20px;
+	color:black;
+	margin-top: 6%
+}
+.left a{
+	margin-top: 60%;
+	color:black;
+	text-decoration: none;
+}
+a:hover {
+	color:orange;
+	
+}
+.right{
+	width: 50%;
+	float:left;
+	font-size:50px;
+}
+.right p{
+	margin-top: 5%;
+	margin-bottom: 9px;
+	float:right;
+	margin-right: 20%;
+}
+.image{
+	position:relative;
+	width:100%;
+	
+}
+.content{
+
+  position: absolute;
+  bottom: 22%;
+  left: 13%;
+  font-size: 100%;
+  background: white;
+  border-radius:7px;
+   background: rgba(0,0,0,0.3);
+}
+.content p{
+	margin-left: 3px;
+}
+.content2{
+
+	 position: absolute;
+  bottom: 60%;
+  left: 13%;
+  height:11%;
+  color:white;
+  font-size: 34px;
+  background: black;
+  width:23%;
+ border-radius:20px 0px ;
+
+}
+.butn button{
+	position: absolute;
+  bottom: 10%;
+  left: 13%;
+  height:7%;
+  font-size: 100%;
+  background: #ff471a;
+  border-radius:7px;
+
+
+   }
+   .mid{
+   	width:100%;
+   	background:#ff471a; 
+   	overflow: hidden;
+   }
+   .mid input{
+
+  height:5%;
+  font-size: 100%;
+  margin-bottom: 4px;
+  margin-left: 2px;
+   }
+   .mid button{
+   	height:5%;
+   font-size: 100%;
+   background: black;
+   border-radius:7px;
+   color:white;
+   margin-bottom: 4px;
+   margin-left: 2px;
+   }
+   .icon1{
+   	width:100%;
+   	margin-top: 5%;
+   	overflow: hidden;
+   	   }
+   .icon2{
+   	width:20%;
+   	 float:left;
+	margin-top: 2px;
+	margin-left: 15%;
+	font-family: 'Open Sans', sans-serif;
+	height: 30%;
+	text-align: justify;
+    font-size: 14px;
+   }
+   .icon3{
+   	width:20%;
+   	 float:left;
+	margin-top: 2px;
+	margin-left: 5%;
+	font-family: 'Open Sans', sans-serif;
+    
+	height: 30%;
+	text-align: justify;
+    font-size: 14px;
+   }
+   .icon4{
+   	width:20%;
+   	 float:left;
+	margin-top: 2px;
+	margin-left: 5%;
+	font-family: 'Open Sans', sans-serif;
+	height: 30%;
+	text-align: justify;
+    font-size: 14px;
+   }
+   	.icon2 img{
+	float:left
+            }
+
+   	.icon3 img{
+	float:left
+            }	
+     .icon4 img{
+	float:left
+            }
+            .hd{
+            	margin-left: 15%;
+            	font-size: 20px;
+            }
+            .hd hr{
+            	margin-right: 15%;
+            }
+            .imagee{
+            	width: 100%;
+            }
+            .row1{
+            	width:10%;
+            }
